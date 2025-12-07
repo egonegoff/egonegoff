@@ -1,7 +1,7 @@
 ## Hi there, Hallo! 👋
 
-- 🔭 I’m currently working on my personal website!
-- 🌱 I’m currently learning to use GitHub.
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently setting up a Pi-Hole.
 - 😄 Pronouns: He/Him
 
 <!--
